@@ -1,2 +1,31 @@
 # StockScope-Interactive-Financial-Dashboard
-A dynamic Power BI dashboard for top Indian stocks with real-time updates, candlestick charts, volume analysis, LSTM-based forecasts, and PowerPoint export via Microsoft Fabric. Mobile-friendly and customizable for detailed financial insights.
+ 
+This repository showcases **StockScope**, a comprehensive Power BI dashboard designed for analyzing stock market data of prominent Indian companies: ICICI Bank, Bharti Airtel, HDFC Bank, Infosys, Maruti Suzuki, Reliance, and Tata Motors.  
+
+#### Key Features:  
+1. **Dynamic Data Updates**:  
+   - Integrated Python scripts within Power BI fetch stock data from January 1, 2022, to the latest trading date.  
+   - A built-in refresh button ensures real-time data updates, providing users with the most current market information.  
+
+2. **Advanced Visualizations**:  
+   - **Candlestick Charts**: Displays stock details like Open, High, Low, Close, Volume, % Change, and more via tooltips.  
+   - **Bar Charts**: Highlights bullish and bearish volume changes using color-coded bars (green and red).  
+   - **Line Chart for Volume/Price Ratio**: Provides insights into trading patterns, leveraging Power BI's tooltip functionality for granular details.  
+   - **Adjustable Moving Averages**: Users can select averages ranging from 20 to 50 days, enabling analysis of both short- and long-term price trends.  
+
+3. **Forecasting with LSTM**:  
+   - Utilizes a Long Short-Term Memory (LSTM) model to predict stock prices for the next 60 days.  
+   - Discusses limitations: predictions are linear due to the reliance on historical prices without external factors, highlighting future improvement opportunities.  
+
+4. **Daily Range Analysis**:  
+   - A dedicated page displays the daily price range for a selected stock.  
+   - Interactive slicers allow users to explore specific periods. Tooltips provide key metrics like Open, High, Low, Close, Volume, Daily Range, and % Change.  
+
+5. **Cross-Platform Interactivity**:  
+   - Leveraging **Microsoft Fabric**, the dashboard is exported as an interactive PowerPoint presentation.  
+   - Users can seamlessly switch between stocks, maintaining full functionality, and access the dashboard via the Power BI mobile app for on-the-go analysis.  
+
+#### Why This Project?  
+**StockScope** was built as part of a financial analytics capstone project to bridge the gap between raw stock market data and actionable insights. It provides a user-friendly interface for traders, analysts, and investors to explore and forecast stock trends efficiently.  
+
+Feel free to explore the repository, try out the dashboard, and provide feedback!  
