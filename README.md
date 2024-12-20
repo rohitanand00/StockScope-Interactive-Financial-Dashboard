@@ -1,3 +1,4 @@
+![Power BI](https://img.shields.io/badge/Power_BI-Report-blue)
 # StockScope-Interactive-Financial-Dashboard
  
 This repository showcases **StockScope**, a comprehensive Power BI dashboard designed for analyzing stock market data of prominent Indian companies: ICICI Bank, Bharti Airtel, HDFC Bank, Infosys, Maruti Suzuki, Reliance, and Tata Motors.  
