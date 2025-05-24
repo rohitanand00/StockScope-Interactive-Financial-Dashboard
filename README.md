@@ -29,4 +29,12 @@ This repository showcases **StockScope**, a comprehensive Power BI dashboard des
 #### Why This Project?  
 **StockScope** was built as part of a financial analytics capstone project to bridge the gap between raw stock market data and actionable insights. It provides a user-friendly interface for traders, analysts, and investors to explore and forecast stock trends efficiently.  
 
-Feel free to explore the repository, try out the dashboard, and provide feedback!  
+Feel free to explore the repository, try out the dashboard, and provide feedback! 
+![Screenshot 2025-05-24 163157](https://github.com/user-attachments/assets/2a5335f0-14c5-4a1b-8a62-fc1709acded7)
+![Screenshot 2025-05-24 163208](https://github.com/user-attachments/assets/aa744d71-f938-4f16-8c92-cc618d2baf4a)
+![Screenshot 2025-05-24 163221](https://github.com/user-attachments/assets/006911fb-7745-4a7e-a991-34c3ffd34285)
+![1734866837142](https://github.com/user-attachments/assets/0da00889-ca7d-49d9-95cd-1e5f7e7f5238)
+
+
+
+
